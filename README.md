@@ -1,0 +1,2 @@
+#electronic_safe_locker
+A simple locker which opens with a  password displayed on LED screen,a servo motor is used to control the opening and closing of the lock.A keypad is used to give inputs.A timer is set within which if the password is wrong locks itself.If password is wrong invalid password is displayed.
